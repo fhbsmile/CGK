@@ -7,7 +7,7 @@ v2.5a add CDM elements, edited by Steven in 2016.05.12
 
 =============================================================== -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="unqualified" attributeFormDefault="unqualified">
-	<!-- ======================= SimpleType Start =============================== -->
+	
 	<!-- +++++++++++++++++++++ SysInfo Start +++++++++++++++++++++ -->
 	<xs:simpleType name="MessageSequenceID">
 		<xs:annotation>
